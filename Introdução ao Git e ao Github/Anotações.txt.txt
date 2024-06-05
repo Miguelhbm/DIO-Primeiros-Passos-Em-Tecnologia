@@ -1,0 +1,6 @@
+   Comandos básicos
+
+-cd
+-dir
+-mkdir
+-del/rmdir
